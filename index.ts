@@ -1,9 +1,8 @@
 const a = false;
 const b = true;
 const c = a && b;
-const d = true;
 
-if (c || d) {
+if (c) {
   console.log("🐈");
 } else {
   console.log("🦆");
