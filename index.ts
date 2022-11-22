@@ -8,3 +8,4 @@ if (c || d) {
 } else {
   console.log("🦆");
 }
+console.log("🦄");
