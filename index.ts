@@ -7,4 +7,3 @@ if (c) {
 } else {
   console.log("🦆");
 }
-console.log("🦄");
