@@ -4,6 +4,8 @@ const c = a && b;
 
 if (c) {
   console.log("🐈");
-} else {
+} else if (b) {
   console.log("🦆");
+} else {
+  console.log("🍄");
 }
