@@ -9,3 +9,8 @@ if (c) {
 } else {
   console.log("🍄");
 }
+console.log("🦄");
+
+const sum = (a: number, b: number) => {
+  return a + b;
+};
